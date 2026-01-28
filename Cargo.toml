@@ -1,0 +1,15 @@
+[package]
+name = "spfx-recon"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tree-sitter = "0.20"
+tree-sitter-typescript = "0.20"
+walkdir = "2.3"
+eframe = "0.22"
+
+# Add this to fix the "configured out" error
+[dependencies.winapi]
+version = "0.3.9"
+features = ["winuser", "windef", "winbase"]
