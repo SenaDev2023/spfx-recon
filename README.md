@@ -1,13 +1,6 @@
 # SPFx Recon: Semantic Synthesis Engine
 
 
-
-!\[License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-!\[Rust](https://img.shields.io/badge/language-Rust-orange.svg)
-
-
-
 \*\*SPFx Recon\*\* is a systems-level static analysis tool designed to perform deep semantic reviews of SharePoint Framework (SPFx) components. By leveraging `tree-sitter` for high-fidelity parsing, it identifies architectural patterns and security risks that traditional regex-based scanners miss.
 
 
