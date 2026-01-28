@@ -52,3 +52,15 @@
 
 &nbsp;  cargo build --release
 
+
+## 🔍 Interface & AST Analysis
+
+### Application Dashboard
+![Main UI](assets/ui-main.png)
+
+### Semantic Deep Dive
+This view shows the `tree-sitter` parser identifying specific TypeScript nodes like `import_statement` and `namespace_import`.
+![AST Detail](assets/ast-detail.png)
+
+
+
