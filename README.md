@@ -1,4 +1,4 @@
-\# SPFx Recon: Semantic Synthesis Engine
+# SPFx Recon: Semantic Synthesis Engine
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-\## 🚀 Core Capabilities
+## 🚀 Core Capabilities
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-\## 🛠 Technology Stack
+## 🛠 Technology Stack
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-\## 📖 Usage
+## 📖 Usage
 
 
 
